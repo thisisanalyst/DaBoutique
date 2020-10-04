@@ -1,6 +1,6 @@
 # DaBoutique
 
-Classic Website for a Boutique!
+Classic Website for a Boutique.
 
 Designed on HTML & CSS.
 
