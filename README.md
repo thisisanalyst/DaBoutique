@@ -8,4 +8,4 @@ You can click the link to see it in your browser:
 
 https://thisisanalyst.github.io/DaBoutique/
 
-(Note: It is not Mobile responsive)
+(Note: It is Not Mobile Responsive)
